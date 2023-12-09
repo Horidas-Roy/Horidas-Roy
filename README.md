@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![The San Juan Mountains are beautiful!](https://github.com/Horidas-Roy/Horidas-Roy/blob/main/971.jpg "San Juan Mountains")
 
