@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=monokai&border_radius=5.5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Horidas-Roy&theme=monokai&border_radius=5.5)](https://git.io/streak-stats)
 
 <!--
 **Horidas-Roy/Horidas-Roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
