@@ -1,11 +1,11 @@
-## :<style>
+<!-- ## :<style>
   .bg{
     background-color:#212529;
     padding:6px 15px;
     border-radius:5px;
     margin-right:3px
   }
-</style>
+</style> -->
 
 ![The San Juan Mountains are beautiful!](https://github.com/Horidas-Roy/Horidas-Roy/blob/main/971.jpg "San Juan Mountains")
 
